@@ -7,12 +7,19 @@ Sorry for any mistake for wrong method, and if its not compling you can give, fi
 *I wrote these codes when I was staring to learn programming so it may contain bugs or errors...*
 
 Contacts -
+
 Github            : sam4rth
+
 Stalkoverflow     : sam4rth
+
 Instagram         : sam4rth_
+
 Twitter           : sam4rth_
+
 Email             : samsri987@gmail.com
+
 Discord           : SAM4RTH#2452
+
 Blog              : https://sam4rth.blogspot.com
 
 Thankyou!!!
